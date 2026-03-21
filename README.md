@@ -30,7 +30,7 @@ The project was initially generated using AI and then customized, debugged, and 
 
 ## 🚀 Live Website
 
-👉 https://your-live-link-here
+👉 https://internhub-ai.vercel.app/
 
 ---
 
